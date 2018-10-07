@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarND_EKF_project", "CarND_EKF_project.vcxproj", "{0C6647E3-6AA5-4445-B7C1-1399F5168C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Debug|x64.ActiveCfg = Debug|x64
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Debug|x64.Build.0 = Debug|x64
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Debug|x86.Build.0 = Debug|Win32
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Release|x64.ActiveCfg = Release|x64
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Release|x64.Build.0 = Release|x64
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Release|x86.ActiveCfg = Release|Win32
+		{0C6647E3-6AA5-4445-B7C1-1399F5168C69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435752A9-71BB-46FE-92D3-5510A38FA92E}
+	EndGlobalSection
+EndGlobal
